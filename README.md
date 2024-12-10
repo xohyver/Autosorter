@@ -63,10 +63,11 @@ Opencv와 Yolov5를 활용하여 실시간 객체 탐지 시스템을 구축했�
 # 📕 기타 자료
 ### 내부구조
 공간을 적게 차지하며 객체탐지를 수행할 수 있도록 미니 pc인 Intel nuc를 쓰레기통 내부에 탑재함.
-![KakaoTalk_20241210_110105790](https://github.com/user-attachments/assets/78c23b17-984b-422b-8163-783b4ab2c853)
+![KakaoTalk_20241210_110105790](https://github.com/user-attachments/assets/f4bf89cb-bc39-4aa1-b62b-8603c705a8ae)
+
 
 ### 내부 모터 동작 영상
-모터에 연결된 기어와 챔버의 레일이 맞물려 돌아가도록 설계함.
+모터에 연결된 기어와 챔버의 레일이 맞물려 돌아가도록 설계함.<br/>
 https://youtube.com/shorts/era5PjpsWZY?feature=share
 
 ### 최종 시연영상
