@@ -72,7 +72,7 @@ try:
             break
 
 except KeyboardInterrupt:
-    print("Interrupted by user")
+    print("강제종료합니다")
 
 finally:
     cap.release()
